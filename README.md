@@ -22,3 +22,4 @@ To learn more about React Native, take a look at the following resource:
 - [React Native Documentation](https://reactnative.dev/docs) - learn about React Native features and Environment setup.
 
 
+# aplikasisekolah-elgato
